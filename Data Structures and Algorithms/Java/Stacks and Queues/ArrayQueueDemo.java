@@ -1,4 +1,4 @@
-public class QueueDemo {
+public class ArrrayQueueDemo {
     public static void main(String[] args){
         Queue myQueue = new Queue(10);
 
